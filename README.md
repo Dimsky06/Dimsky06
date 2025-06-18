@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="center">&lt;Olá, eu sou a Suiane Henrichs!/&gt;</h2>
+<h2 align="center">&lt;Hallo Saya Dimas Eka Maulana/&gt;</h2>
 
 ###
 
@@ -20,7 +20,7 @@
   <a href="https://www.tiktok.com/@s.henrichs.tech" style="text-decoration: none; outline: none; border: none;">
     <img src="https://imgur.com/bNwVY6P.png" alt="TikTok" style="border: none; outline: none; margin-right: 44px;" />
   </a>
-  <a href="mailto:suianehenrichs@gmail.com" style="text-decoration: none; outline: none; border: none;">
+  <a href="dimasekamaulanadimas@gmail.com" style="text-decoration: none; outline: none; border: none;">
     <img src="https://imgur.com/s3EST1a.png" alt="E-mail" style="border: none; outline: none;" />
   </a>
 </div>
@@ -40,7 +40,7 @@
 
 
 
-<p align="left">🌍 Sou do Rio de Janeiro, Brasil<br>🎓 Estudante de Sistemas de Informação<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python e Java<br>✨ Criando projetos para aprimorar minhas habilidades</p>
+<p align="left">🌍 Saya Berasal Dari Jakarta, Indonesia<br>🎓 Estudante de Sistemas de Informação<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python e Java<br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
 ###
 
