@@ -41,7 +41,14 @@
 
 
 
-<p align="left">🌍 Saya Berasal Dari Jakarta, Indonesia<br>🎓 Estudante de Sistemas de Informação<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python e Java<br>✨ Criando projetos para aprimorar minhas habilidades</p>
+<p align="left">
+🌍 From Jakarta, Indonesia <br>
+🎓 Information Technology Student <br>
+⚡ Aspiring Full-Stack Developer <br>
+🎯 Currently learning: HTML, CSS, JavaScript, Python, and Java <br>
+✨ Exploring projects to strengthen my foundation
+</p>
+
 
 ###
 
