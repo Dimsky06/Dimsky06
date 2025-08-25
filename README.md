@@ -33,8 +33,7 @@
 ###
 
 <br clear="both">
-
-<a href="https://ibb.co.com/Z6dRLdPC"><img src="https://i.ibb.co.com/SXNDsN8p/Whats-App-Image-Aug-23-2025.jpg" alt="Whats-App-Image-Aug-23-2025" border="0"></a>
+<img align="right" height="430" src="https://i.ibb.co.com/SXNDsN8p/Whats-App-Image-Aug-23-2025.jpg"/>
 
 
 
