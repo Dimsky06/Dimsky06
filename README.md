@@ -34,8 +34,7 @@
 
 <br clear="both">
 
-<img align="right" height="430" src="https://imgur.com/2BHWZZQ"  />
-![Alt Text](https://i.imgur.com/s3EST1a.png)
+<a href="https://ibb.co.com/Z6dRLdPC"><img src="https://i.ibb.co.com/SXNDsN8p/Whats-App-Image-Aug-23-2025.jpg" alt="Whats-App-Image-Aug-23-2025" border="0"></a>
 
 
 
