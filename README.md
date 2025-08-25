@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="center">&lt;Hallo Saya Dimas Eka Maulana/&gt;</h2>
+<h2 align="center">👋 Hello, I'm Dimas Eka Maulana</h2>
 
 ###
 
