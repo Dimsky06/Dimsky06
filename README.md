@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<img align="right" height="430" src="https://imgur.com/s3EST1a.png"  />
+<img align="right" height="430" src="https://imgur.com/2BHWZZQ"  />
 
 ###
 
