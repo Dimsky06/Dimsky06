@@ -5,7 +5,8 @@
 
 ###
 
-<h2 align="center">👋 Hello, I'm Dimas Eka Maulana</h2>
+<h2 align="center">Welcome to My GitHub Profile</h2>
+
 
 ###
 
