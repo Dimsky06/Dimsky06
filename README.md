@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left"> Linguagens e Ferramentas</h3>
+<h3 align="left"> Languages & Tools </h3>
 
 ###
 ###
@@ -85,16 +85,16 @@
 
 ###
 
-<h3 align="left">Repositório de Projetos </h3>
+<h3 align="left"> Project Repository </h3>
 
 ###
 
 <p align="left">
- <b>Frontend</b> - Designs e interfaces com HTML, CSS e JavaScript<br>
- <b>Python</b> - Projetos e desafios em Python<br>
- <b>SQL</b> - Consultas e banco de dados<br>
- <b>Desafios</b> - Exercícios para melhorar habilidades de código<br>
- <b>Aprendizado</b> - Anotações e mini-projetos
+ <b>Frontend</b> – Web interfaces with HTML, CSS, JavaScript <br>
+ <b>Python</b> – Projects & problem solving <br>
+ <b>SQL</b> – Database queries and practice <br>
+ <b>Challenges</b> – Coding exercises <br>
+ <b>Learning</b> – Notes & mini projects
 </p>
 
 
@@ -103,19 +103,21 @@
 ###
 ###
 
-## <h3 align="left"> Bootcamps e Programas </h3>
+## <h3 align="left"> Bootcamps and Programs </h3>
 
-<p align="left"> Atualmente estou participando dos seguintes bootcamps e programas de capacitação:</p>
+<p align="left">
+🎓 Currently pursuing a Bachelor's degree in Information Technology <br>
+💻 Also enrolled in various bootcamps and training programs to strengthen my skills
+</p>
 
 
 
 <div align="left">
- 📊 <b>&lt;Hello, ONE!&gt; </b> - Programa da Oracle + Alura com formação em Data Science e Análise de Dados<br>
- 📈 <b>EY Empodera [Eu Capacito]</b> - Programa da Ernst & Young em parceria com a Fiap com trilha em Dados<br>
- 🎓 <b>DIO Campus Expert</b> - Programa de Embaixadores da <a href="https://www.dio.me">Digital Innovation One</a><br>
- ☕ <b>Bootcamp Java Developer</b> - Formação em desenvolvimento backend com Java pela <a href="https://www.dio.me">DIO</a><br>
- ☁ <b>Bootcamp AWS Cloud Fundamentals</b> - Aprendizado sobre computação em nuvem na <a href="https://www.dio.me">DIO</a><br>
- 
+ 🎓 <b>Bachelor in Information Technology</b> - Polytechnic studies with focus on practical and theoretical learning<br>
+ ☕ <b>Java Developer Bootcamp</b> - Backend development with Java at <a href="https://www.dio.me">DIO</a><br>
+ 💻 <b>Full-Stack Web Development Training</b> - Hands-on projects with HTML, CSS, and JavaScript<br>
+ ☁ <b>AWS Cloud Fundamentals Bootcamp</b> - Introduction to cloud computing with AWS at <a href="https://www.dio.me">DIO</a><br>
+ 📊 <b>Python & Data Analysis Program</b> - Learning Python for data processing and analytics<br>
 </div>
 
 
