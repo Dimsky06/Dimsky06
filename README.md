@@ -15,10 +15,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+" alt="Typing SVG" /></a>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/suianehenrichs" style="text-decoration: none; outline: none; border: none;">
+  <a href="https://www.linkedin.com/in/dmsky" style="text-decoration: none; outline: none; border: none;">
     <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="border: none; outline: none; margin-right: 40px;" />
   </a>
-  <a href="https://www.tiktok.com/@s.henrichs.tech" style="text-decoration: none; outline: none; border: none;">
+  <a href="https://www.tiktok.com/@dmsky_06?_t=ZS-8zB0x5KoTFg&_r=1" style="text-decoration: none; outline: none; border: none;">
     <img src="https://imgur.com/bNwVY6P.png" alt="TikTok" style="border: none; outline: none; margin-right: 44px;" />
   </a>
   <a href="dimasekamaulanadimas@gmail.com" style="text-decoration: none; outline: none; border: none;">
