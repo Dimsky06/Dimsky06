@@ -34,7 +34,8 @@
 
 <br clear="both">
 
-<img align="right" height="430" src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/BX5WTwX" data-context="false" ><a href="//imgur.com/a/BX5WTwX"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"  />
+<img align="right" height="430" src=""  />
+<blockquote class="imgur-embed-pub" lang="en" data-id="2BHWZZQ"><a href="https://imgur.com/2BHWZZQ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ###
 
