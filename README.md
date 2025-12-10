@@ -89,14 +89,19 @@
 <h3 align="center"> Status  </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dimsky06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimsky06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dimsky06&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SuianeHenrichs1.SuianeHenrichs1&left_color=violet&right_color=cornflowerblue"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dimsky06&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimsky06&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dimsky06.Dimsky06&left_color=black&right_color=9c27b0" alt="visitor badge"/>
+</div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
 
 
