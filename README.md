@@ -1,15 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=header)
 
-
-
-
-###
-
 <h2 align="center">Thanks for checking out my work 🚀</h2>
-
-
-###
-
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+" alt="Typing SVG" /></a>
@@ -26,21 +17,8 @@
   </a>
 </div>
 
-
- 
-
-
-
-###
-
 <br clear="both">
 <img align="right" height="430" src="https://i.ibb.co.com/SXNDsN8p/Whats-App-Image-Aug-23-2025.jpg"/>
-
-
-
-###
-
-
 
 <p align="left">
 🌍 From Jakarta, Indonesia <br>
@@ -51,12 +29,7 @@
 </p>
 
 
-###
-
 <h3 align="left"> Languages & Tools </h3>
-
-###
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
@@ -84,11 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
 </div>
 
-###
-
 <h3 align="left"> Project Repository </h3>
-
-###
 
 <p align="left">
  <b>Frontend</b> – Web interfaces with HTML, CSS, JavaScript <br>
@@ -99,12 +68,7 @@
 </p>
 
 
-###
-
-###
-###
-
-## <h3 align="left"> Bootcamps and Programs </h3>
+<h3 align="left"> Bootcamps and Programs </h3>
 
 <p align="left">
 🎓 Currently pursuing a Bachelor's degree in Information Technology <br>
@@ -129,20 +93,9 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dimsky06&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph"  />
 </div>
-
-
-
-
-
-###
-###
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SuianeHenrichs1.SuianeHenrichs1&left_color=violet&right_color=cornflowerblue"  />
 </div>
-
-###
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
 
