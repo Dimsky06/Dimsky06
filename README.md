@@ -125,14 +125,10 @@
 <h3 align="center"> Status  </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dimsky06&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dimsky06&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuianeHenrichs1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuianeHenrichs1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dimsky06.Dimsky06&left_color=black&right_color=ff0055" alt="visitor badge"/>
-</div>
 
 
 
@@ -150,4 +146,4 @@
 
 
 
-<img width="468" height="619" alt="image" src="https://github.com/user-attachments/assets/0b2bd0b8-dadc-4adc-bb56-454d08155328" />
+![Uploading image.png…]()
