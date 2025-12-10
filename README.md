@@ -5,22 +5,26 @@
 
 ###
 
-<h3 align="center"> Status </h3>
+<h2 align="center">Thanks for checking out my work 🚀</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dimsky06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dimsky06&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dimsky06.Dimsky06&left_color=black&right_color=9c27b0" alt="visitor badge"/>
-</div>
 
 ###
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+" alt="Typing SVG" /></a>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dmsky" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="border: none; outline: none; margin-right: 40px;" />
+  </a>
+  <a href="https://www.tiktok.com/@dmsky_06?_t=ZS-8zB0x5KoTFg&_r=1" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://imgur.com/bNwVY6P.png" alt="TikTok" style="border: none; outline: none; margin-right: 44px;" />
+  </a>
+  <a href="dimasekamaulanadimas@gmail.com" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://imgur.com/s3EST1a.png" alt="E-mail" style="border: none; outline: none;" />
+  </a>
+</div>
 
 
  
