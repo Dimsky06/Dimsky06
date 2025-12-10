@@ -1,10 +1,15 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=header)
 
+
+
+
 ###
 
 <h2 align="center">Thanks for checking out my work 🚀</h2>
 
+
 ###
+
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+" alt="Typing SVG" /></a>
@@ -16,17 +21,26 @@
   <a href="https://www.tiktok.com/@dmsky_06?_t=ZS-8zB0x5KoTFg&_r=1" style="text-decoration: none; outline: none; border: none;">
     <img src="https://imgur.com/bNwVY6P.png" alt="TikTok" style="border: none; outline: none; margin-right: 44px;" />
   </a>
-  <a href="mailto:dimasekamaulanadimas@gmail.com" style="text-decoration: none; outline: none; border: none;">
+  <a href="dimasekamaulanadimas@gmail.com" style="text-decoration: none; outline: none; border: none;">
     <img src="https://imgur.com/s3EST1a.png" alt="E-mail" style="border: none; outline: none;" />
   </a>
 </div>
 
+
+ 
+
+
+
 ###
 
 <br clear="both">
-<img align="right" height="430" src="https://i.ibb.co/SXNDsN8p/Whats-App-Image-Aug-23-2025.jpg"/> 
+<img align="right" height="430" src="https://i.ibb.co.com/SXNDsN8p/Whats-App-Image-Aug-23-2025.jpg"/>
+
+
 
 ###
+
+
 
 <p align="left">
 🌍 From Jakarta, Indonesia <br>
@@ -35,6 +49,7 @@
 🎯 Currently learning: HTML, CSS, JavaScript, Python, and Java <br>
 ✨ Exploring projects to strengthen my foundation
 </p>
+
 
 ###
 
@@ -85,6 +100,8 @@
 
 
 ###
+
+###
 ###
 
 ## <h3 align="left"> Bootcamps and Programs </h3>
@@ -94,6 +111,8 @@
 💻 Also enrolled in various bootcamps and training programs to strengthen my skills
 </p>
 
+
+
 <div align="left">
  🎓 <b>Bachelor in Information Technology</b> - Polytechnic studies with focus on practical and theoretical learning<br>
  ☕ <b>Java Developer Bootcamp</b> - Backend development with Java at <a href="https://www.dio.me">DIO</a><br>
@@ -102,21 +121,29 @@
  📊 <b>Python & Data Analysis Program</b> - Learning Python for data processing and analytics<br>
 </div>
 
-<h3 align="center"> Status </h3>
+
+<h3 align="center"> Status  </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_DENGAN_USERNAME_GITHUB_KAMU&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GANTI_DENGAN_USERNAME_GITHUB_KAMU&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuianeHenrichs1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuianeHenrichs1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
+
+
+
 ###
 ###
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GANTI_DENGAN_USERNAME_GITHUB_KAMU.GANTI_DENGAN_USERNAME_GITHUB_KAMU&left_color=violet&right_color=cornflowerblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SuianeHenrichs1.SuianeHenrichs1&left_color=violet&right_color=cornflowerblue"  />
 </div>
 
 ###
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
+
+
+
+![Uploading image.png…]()
