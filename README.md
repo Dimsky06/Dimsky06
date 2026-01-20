@@ -34,8 +34,8 @@
 ###
 
 
-<a href="https://ibb.co.com/4RQhLxHy">
-<img src="https://i.ibb.co.com/4RQhLxHy/gambardms.png" alt="gambardms" border="0"></a>
+<br clear="both">
+<img align="right" height="430" src="https://i.ibb.co.com/SXNDsN8p/Whats-App-Image-Aug-23-2025.jpg"/>
 
 
 ###
