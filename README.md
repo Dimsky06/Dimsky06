@@ -33,9 +33,9 @@
 
 ###
 
-<br clear="both">
-<img align="right" height="430" src="https://ibb.co.com/4RQhLxHy"/>
 
+<a href="https://ibb.co.com/4RQhLxHy">
+<img src="https://i.ibb.co.com/4RQhLxHy/gambardms.png" alt="gambardms" border="0"></a>
 
 
 ###
