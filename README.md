@@ -35,8 +35,7 @@
 
 
 <br clear="both">
-<img align="right" width="320" src="https://i.ibb.co.com/NnswQGPb/gambardms.png" alt="Dimas Eka Maulana" />
-
+<img align="right" height="430" src="https://i.ibb.co.com/NnswQGPb/gambardms.png"/>
 ###
 
 
