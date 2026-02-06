@@ -35,8 +35,7 @@
 
 
 <br clear="both">
-<img align="right" height="430" src="https://i.ibb.co.com/SXNDsN8p/Whats-App-Image-Aug-23-2025.jpg"/>
-
+<img align="right" width="320" src="https://i.ibb.co.com/NnswQGPb/gambardms.png" alt="Dimas Eka Maulana" />
 
 ###
 
