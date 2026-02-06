@@ -28,7 +28,7 @@
 🌍 From Jakarta, Indonesia <br>
 🎓 Information Technology Student <br>
 ⚡ Aspiring Full-Stack Developer <br>
-🎯 Currently sharpening: <b>Modern Web Dev</b> & <b>Software Engineering (Java/Python)</b> <br>
+🎯 Core Stack: <b>JavaScript Ecosystem</b>, <b>Python</b>, & <b>Java OOP</b> <br>
 ✨ Exploring projects to strengthen my foundation
 </p>
 
