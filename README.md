@@ -39,19 +39,19 @@
 <h3 align="left">🛠 Tech Stack & Tools</h3>
 <table align="left">
   <tr>
-    <td align="center" width="120"><b>Frontend</b></td>
-    <td align="center" width="120"><b>Backend</b></td>
-    <td align="center" width="120"><b>Tools</b></td>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td align="center" width="140"><b>Backend</b></td>
+    <td align="center" width="140"><b>Tools & Deploy</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=3" width="100" alt="Frontend Skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nextjs&perline=3" width="100" alt="Frontend" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo&perline=3" width="100" alt="Backend Skills" />
+      <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo,nodejs,php&perline=3" width="100" alt="Backend" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,idea,figma,git&perline=3" width="100" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,figma,git,postman,vercel,github&perline=3" width="100" alt="Tools" />
     </td>
   </tr>
 </table>
