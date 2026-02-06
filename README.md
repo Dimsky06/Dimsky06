@@ -91,6 +91,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimsky06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SuianeHenrichs1.SuianeHenrichs1&left_color=violet&right_color=cornflowerblue"  />
+</div>
+</br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
 
