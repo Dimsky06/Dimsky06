@@ -78,9 +78,11 @@
  ☁ <b>AWS Cloud Fundamentals Bootcamp</b> - Introduction to cloud computing with AWS at <a href="https://www.dio.me">DIO</a><br>
  📊 <b>Python & Data Analysis Program</b> - Learning Python for data processing and analytics<br>
 </div>
+
 <br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Dimsky06.Dimsky06&left_color=violet&right_color=cornflowerblue" />
 </div>
 </br>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
