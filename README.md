@@ -36,27 +36,25 @@
 ✨ Exploring projects to strengthen my foundation
 </p>
 
-<h3 align="left">🛠 Tech Stack & Tools</h3>
-<table align="left">
+<h3 align="center">🛠 Tech Stack & Tools</h3>
+<table align="center">
   <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
-    <td align="center" width="140"><b>Backend</b></td>
-    <td align="center" width="140"><b>Tools & Deploy</b></td>
+    <td align="center" width="120"><b>Frontend</b></td>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td align="center" width="120"><b>Tools</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nextjs&perline=3" width="100" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&perline=3" width="100" alt="Frontend" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo,nodejs,php&perline=3" width="100" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo,nodejs&perline=3" width="100" alt="Backend" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,idea,figma,git,postman,vercel,github&perline=3" width="100" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,figma,git,postman&perline=3" width="100" alt="Tools" />
     </td>
   </tr>
 </table>
-
-<br clear="both">
 
 <h3 align="left"> Project Repository </h3>
 
