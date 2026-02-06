@@ -74,25 +74,12 @@
 <h3 align="left">🎓 Bootcamps & Education</h3>
 
 <p align="left">
-  Currently pursuing a <b>Bachelor's in Information Technology</b> while expanding practical skills through specialized bootcamps.
+🎓 <b>Bachelor in Information Technology</b> – Polytechnic studies focusing on Software Engineering & Algorithms<br>
+☕ <b>Java Developer Bootcamp</b> – Backend logic, OOP, and API development with Java (at <a href="https://www.dio.me">DIO</a>)<br>
+💻 <b>Full-Stack Web Development</b> – Modern web apps using React.js, Tailwind, Node.js & MySQL<br>
+☁ <b>AWS Cloud Fundamentals</b> – Cloud Infrastructure & Serverless Architecture (at <a href="https://www.dio.me">DIO</a>)<br>
+📊 <b>Python & Data Analysis</b> – Data processing & automation with Python & Pandas
 </p>
-
-<div align="left">
-  🎓 <b>Bachelor in Information Technology</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Focusing on Software Engineering, Data Structures, and Algorithms.<br><br>
-  
-  ☕ <b>Java Developer Bootcamp</b> (at <a href="https://www.dio.me">DIO</a>)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Mastering Backend Logic, OOP Principles, and API Development with <b>Java</b>.<br><br>
-  
-  💻 <b>Full-Stack Web Development</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Building modern web apps using <b>React.js, Tailwind CSS, Node.js</b>, and <b>MongoDB/MySQL</b>.<br><br>
-  
-  ☁ <b>AWS Cloud Fundamentals</b> (at <a href="https://www.dio.me">DIO</a>)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Understanding Cloud Infrastructure, Deployment, and Serverless Architecture.<br><br>
-  
-  📊 <b>Python & Data Analysis</b><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Automating tasks and processing data using <b>Python</b> & Pandas.
-</div>
 
 <br>
 <div align="center">
