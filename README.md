@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-<br clear="both">
+<br clear="left">
 
 <h3 align="left"> Project Repository </h3>
 
