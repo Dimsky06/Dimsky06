@@ -36,6 +36,7 @@
 ✨ Exploring projects to strengthen my foundation
 </p>
 
+<br>
 <h3 align="left">🛠 Tech Stack & Tools</h3>
 <table align="left">
   <tr>
@@ -56,7 +57,7 @@
   </tr>
 </table>
 
-<br>
+</br>
 
 <h3 align="left"> Project Repository </h3>
 
@@ -68,9 +69,8 @@
  <b>Learning</b> – Notes & mini projects
 </p>
 
-</br>
 
-## <h3 align="left"> Bootcamps and Programs </h3>
+<h3 align="left"> Bootcamps and Programs </h3>
 
 <p align="left">
 🎓 Currently pursuing a Bachelor's degree in Information Technology <br>
