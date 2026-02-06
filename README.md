@@ -2,13 +2,7 @@
 
 
 
-
-###
-
 <h2 align="center">Thanks for checking out my work 🚀</h2>
-
-
-###
 
 
 <div align="center">
@@ -27,16 +21,10 @@
 </div>
 
 
- 
-
-
-
-###
 
 
 <br clear="both">
 <img align="right" height="430" src="https://i.ibb.co.com/NnswQGPb/gambardms.png"/>
-###
 
 
 
@@ -49,12 +37,9 @@
 </p>
 
 
-###
 
 <h3 align="left"> Languages & Tools </h3>
 
-###
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
