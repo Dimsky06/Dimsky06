@@ -36,7 +36,6 @@
 ✨ Exploring projects to strengthen my foundation
 </p>
 
-<br>
 <h3 align="left">🛠 Tech Stack & Tools</h3>
 <table align="left">
   <tr>
@@ -57,7 +56,7 @@
   </tr>
 </table>
 
-</br>
+<br clear="both">
 
 <h3 align="left"> Project Repository </h3>
 
