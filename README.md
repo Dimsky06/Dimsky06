@@ -77,7 +77,6 @@
 </p>
 
 
-
 <div align="left">
  🎓 <b>Bachelor in Information Technology</b> - Polytechnic studies with focus on practical and theoretical learning<br>
  ☕ <b>Java Developer Bootcamp</b> - Backend development with Java at <a href="https://www.dio.me">DIO</a><br>
@@ -103,5 +102,3 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
 
 
-
-![Uploading image.png…]()
