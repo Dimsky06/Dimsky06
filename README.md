@@ -36,38 +36,25 @@
 ✨ Exploring projects to strengthen my foundation
 </p>
 
-
-
-<h3 align="left"> Languages & Tools </h3>
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
-</div>
-
-###
+<h3 align="left">🛠 Tech Stack & Tools</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>Frontend</b></td>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td align="center" width="120"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=3" width="100" alt="Frontend Skills" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo&perline=3" width="100" alt="Backend Skills" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode,idea,figma,git&perline=3" width="100" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left"> Project Repository </h3>
 
@@ -82,10 +69,6 @@
 </p>
 
 
-###
-
-###
-###
 
 ## <h3 align="left"> Bootcamps and Programs </h3>
 
