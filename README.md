@@ -79,12 +79,9 @@
  📊 <b>Python & Data Analysis Program</b> - Learning Python for data processing and analytics<br>
 </div>
 
-<h3 align="left">📈 GitHub Stats</h3>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Dimsky06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimsky06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</p>
+### 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Dimsky06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimsky06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 <br>
 
