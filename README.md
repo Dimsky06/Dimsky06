@@ -58,14 +58,14 @@
 
 <br clear="left">
 
-<h3 align="left"> Project Repository </h3>
+<h3 align="left">📂 Project Repository</h3>
 
 <p align="left">
- <b>Frontend</b> – Web interfaces with HTML, CSS, JavaScript <br>
- <b>Python</b> – Projects & problem solving <br>
- <b>SQL</b> – Database queries and practice <br>
- <b>Challenges</b> – Coding exercises <br>
- <b>Learning</b> – Notes & mini projects
+  🔭 <b>Frontend</b> ⏤ Responsive web apps with React.js, Tailwind, & Bootstrap<br>
+  ⚙️ <b>Backend</b> ⏤ Server-side logic using Java, Python, PHP, & Node.js<br>
+  🗄️ <b>Database</b> ⏤ Data management using MySQL & MongoDB<br>
+  🛠️ <b>Tools</b> ⏤ Workflow efficiency with Git, Postman, & Figma<br>
+  📚 <b>Learning</b> ⏤ Bootcamp notes, coding challenges & mini projects
 </p>
 
 
