@@ -37,7 +37,7 @@
 </p>
 
 <h3 align="left">🛠 Tech Stack & Tools</h3>
-<table align="center">
+<table align="leftr">
   <tr>
     <td align="center" width="120"><b>Frontend</b></td>
     <td align="center" width="120"><b>Backend</b></td>
