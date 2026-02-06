@@ -64,13 +64,6 @@
   📚 <b>Learning</b> ⏤ Bootcamp notes, coding challenges & mini projects
 </p>
 
-<h3 align="left"> Bootcamps and Programs </h3>
-
-<p align="left">
-🎓 Currently pursuing a Bachelor's degree in Information Technology <br>
-💻 Also enrolled in various bootcamps and training programs to strengthen my skills
-</p>
-
 <h3 align="left">🎓 Bootcamps & Education</h3>
 
 <p align="left">
