@@ -48,10 +48,10 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&perline=3" width="100" alt="Frontend" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo,nodejs&perline=3" width="100" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo,nodejs,php&perline=3" width="100" alt="Backend" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,idea,figma,git,postman&perline=3" width="100" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,figma,git,postman,notion&perline=3" width="100" alt="Tools" />
     </td>
   </tr>
 </table>
