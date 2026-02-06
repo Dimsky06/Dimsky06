@@ -56,9 +56,9 @@
   </tr>
 </table>
 
-<h3 align="left"> Project Repository </h3>
+<br>
 
-###
+<h3 align="left"> Project Repository </h3>
 
 <p align="left">
  <b>Frontend</b> – Web interfaces with HTML, CSS, JavaScript <br>
@@ -68,7 +68,7 @@
  <b>Learning</b> – Notes & mini projects
 </p>
 
-
+</br>
 
 ## <h3 align="left"> Bootcamps and Programs </h3>
 
