@@ -1,28 +1,32 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=header)
 
+
+
 <h2 align="center">Thanks for checking out my work 🚀</h2>
 
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+" alt="Typing SVG" /></a>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dmsky" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="border: none; outline: none; margin-right: 40px;" />
+  </a>
+  <a href="https://www.tiktok.com/@dmsky_06?_t=ZS-8zB0x5KoTFg&_r=1" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://imgur.com/bNwVY6P.png" alt="TikTok" style="border: none; outline: none; margin-right: 44px;" />
+  </a>
+  <a href="dimasekamaulanadimas@gmail.com" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://imgur.com/s3EST1a.png" alt="E-mail" style="border: none; outline: none;" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/dmsky" style="text-decoration: none;">
-    <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.tiktok.com/@dmsky_06" style="text-decoration: none;">
-    <img src="https://imgur.com/bNwVY6P.png" alt="TikTok" style="margin-right: 20px;" />
-  </a>
-  <a href="mailto:dimasekamaulanadimas@gmail.com" style="text-decoration: none;">
-    <img src="https://imgur.com/s3EST1a.png" alt="E-mail" />
-  </a>
-</div>
+
+
 
 <br clear="both">
-
 <img align="right" height="430" src="https://i.ibb.co.com/NnswQGPb/gambardms.png"/>
+
+
 
 <p align="left">
 🌍 From Jakarta, Indonesia <br>
@@ -64,12 +68,14 @@
   📚 <b>Learning</b> ⏤ Bootcamp notes, coding challenges & mini projects
 </p>
 
+
 <h3 align="left"> Bootcamps and Programs </h3>
 
 <p align="left">
 🎓 Currently pursuing a Bachelor's degree in Information Technology <br>
 💻 Also enrolled in various bootcamps and training programs to strengthen my skills
 </p>
+
 
 <div align="left">
  🎓 <b>Bachelor in Information Technology</b> - Polytechnic studies with focus on practical and theoretical learning<br>
@@ -88,9 +94,10 @@
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dimsky06.Dimsky06&left_color=violet&right_color=cornflowerblue" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SuianeHenrichs1.SuianeHenrichs1&left_color=violet&right_color=cornflowerblue"  />
 </div>
-
-<br>
+</br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
+
+
