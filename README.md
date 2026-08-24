@@ -28,7 +28,7 @@
 🌍 From Jakarta, Indonesia <br>
 🎓 Information Technology Student <br>
 ⚡ Aspiring Data Scientist & Full-Stack Developer <br>
-🎯 Core Stack: <b>Python (Data Science & ML)</b>, <b>SQL Databases</b>, & <b>JavaScript Ecosystem</b> <br>
+🎯 Core Stack: <b>Python (Data Science & ML)</b>, <b>SQL Databases</b>, & <b>JS Ecosystem</b> <br>
 ✨ Exploring data-driven solutions & machine learning projects
 </p>
 
