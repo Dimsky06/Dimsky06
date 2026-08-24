@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<img align="right" height="430" src="https://ibb.co.com/RphVZL9W"/>
+<img align="right" height="430" src="https://i.ibb.co.com/NnswQGPb/gambardms.png"/>
 
 <p align="left">
 🌍 From Jakarta, Indonesia <br>
