@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<img align="right" height="430" src="https://i.ibb.co.com/mCvM1QG7/DMS-Portrait-Company-ID-2.png" alt="DMS Profile"/>
+<img align="right" height="430" src="https://i.ibb.co.com/NnswQGPb/gambardms.png"/>
 
 <p align="left">
 🌍 From Jakarta, Indonesia <br>
