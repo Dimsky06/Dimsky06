@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dmsky" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/dimas-eka-maulana-262a3a393/" style="text-decoration: none;">
     <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="margin-right: 20px;" />
   </a>
   <a href="https://www.tiktok.com/@dmsky_06" style="text-decoration: none;">
