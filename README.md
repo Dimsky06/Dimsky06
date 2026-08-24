@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&&background=FF56FF00&center=true&width=500&lines=Data+Scientist+%26+Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,24 +27,24 @@
 <p align="left">
 🌍 From Jakarta, Indonesia <br>
 🎓 Information Technology Student <br>
-⚡ Aspiring Full-Stack Developer <br>
-🎯 Core Stack: <b>JavaScript Ecosystem</b>, <b>Python</b>, & <b>Java OOP</b> <br>
-✨ Exploring projects to strengthen my foundation
+⚡ Aspiring Data Scientist & Full-Stack Developer <br>
+🎯 Core Stack: <b>Python (Data Science & ML)</b>, <b>SQL Databases</b>, & <b>JavaScript Ecosystem</b> <br>
+✨ Exploring data-driven solutions & machine learning projects
 </p>
 
 <h3 align="left">🛠 Tech Stack & Tools</h3>
 <table align="left">
   <tr>
-    <td align="center" width="120"><b>Frontend</b></td>
-    <td align="center" width="120"><b>Backend</b></td>
-    <td align="center" width="120"><b>Tools</b></td>
+    <td align="center" width="130"><b>Data Science & AI</b></td>
+    <td align="center" width="130"><b>Web Dev</b></td>
+    <td align="center" width="130"><b>Tools & DB</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&perline=3" width="100" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=py,postgres,mysql&perline=3" width="100" alt="Data Science" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo,nodejs,php&perline=3" width="100" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,java,php,bootstrap&perline=3" width="100" alt="Web Dev" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode,idea,figma,git,postman,notion&perline=3" width="100" alt="Tools" />
@@ -57,21 +57,22 @@
 <h3 align="left">📂 Project Repository</h3>
 
 <p align="left">
+  📊 <b>Data Science & ML</b> ⏤ Exploratory Data Analysis (EDA), Machine Learning Models, & Data Visualization<br>
   🔭 <b>Frontend</b> ⏤ Responsive web apps with React.js, Tailwind, & Bootstrap<br>
   ⚙️ <b>Backend</b> ⏤ Server-side logic using Java, Python, PHP, & Node.js<br>
-  🗄️ <b>Database</b> ⏤ Data management using MySQL & MongoDB<br>
+  🗄️ <b>Database</b> ⏤ Data management using MySQL & PostgreSQL<br>
   🛠️ <b>Tools</b> ⏤ Workflow efficiency with Git, Postman, & Figma<br>
-  📚 <b>Learning</b> ⏤ Bootcamp notes, coding challenges & mini projects
+  📚 <b>Learning</b> ⏤ Bootcamp notes, coding challenges & data projects
 </p>
 
 <h3 align="left">🎓 Bootcamps & Education</h3>
 
 <p align="left">
 🎓 <b>Bachelor in Information Technology</b> – Polytechnic studies focusing on Software Engineering & Algorithms<br>
+📊 <b>Python & Data Science</b> – Data processing, EDA, automation & Machine Learning fundamentals<br>
 ☕ <b>Java Developer Bootcamp</b> – Backend logic, OOP, and API development with Java (at <a href="https://www.dio.me">DIO</a>)<br>
 💻 <b>Full-Stack Web Development</b> – Modern web apps using React.js, Tailwind, Node.js & MySQL<br>
-☁ <b>AWS Cloud Fundamentals</b> – Cloud Infrastructure & Serverless Architecture (at <a href="https://www.dio.me">DIO</a>)<br>
-📊 <b>Python & Data Analysis</b> – Data processing & automation with Python & Pandas
+☁ <b>AWS Cloud Fundamentals</b> – Cloud Infrastructure & Serverless Architecture (at <a href="https://www.dio.me">DIO</a>)
 </p>
 
 <br>
